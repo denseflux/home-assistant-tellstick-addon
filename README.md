@@ -1,5 +1,6 @@
 # Home Assistant Tellstick Add-on
 
+Moddad av Tommy 
 This repository is a fork of the upstream [Home Assistant Add-ons](https://github.com/home-assistant/addons), made right before the removal of the deprecated Tellstick addon.
 
 ## Add-ons provided by this repository
