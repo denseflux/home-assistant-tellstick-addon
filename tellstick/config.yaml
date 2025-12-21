@@ -1,8 +1,8 @@
 ---
 version: 2.2.1
 slug: tellstick
-name: TellStick
-description: TellStick and TellStick Duo service
+name: TellStick Tommy
+description: TellStick service
 url: https://github.com/vreten10/home-assistant-tellstick-addon
 arch:
   - aarch64
