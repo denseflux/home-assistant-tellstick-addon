@@ -3,12 +3,12 @@ version: 2.2.1
 slug: tellstick
 name: TellStick Tommy
 description: TellStick service
-url: https://github.com/vreten10/home-assistant-tellstick-addon
+url: https://github.com/denseflux/home-assistant-tellstick-addon
 #url: https://github.com/michaelarnauts/home-assistant-tellstick-addon
 arch:
   - aarch64
 #  - amd64
-image: vreten10/home-assistant-tellstick-addon
+image: denseflux/home-assistant-tellstick-addon
 #image: michaelarnauts/home-assistant-tellstick-addon
 options:
   devices:
