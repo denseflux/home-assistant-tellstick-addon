@@ -8,7 +8,7 @@ url: https://github.com/denseflux/home-assistant-tellstick-addon
 arch:
   - aarch64
 #  - amd64
-image: denseflux/home-assistant-tellstick-addon
+image: https://github.com/denseflux/home-assistant-tellstick-addon
 #image: michaelarnauts/home-assistant-tellstick-addon
 options:
   devices:
